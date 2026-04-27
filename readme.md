@@ -1,8 +1,11 @@
 # DevOps Project
 
-- Node.js app
-- Docker container
+## Description
+This is my first Docker project.
 
-Run:
+## Steps to run
 docker build -t myapp .
 docker run myapp
+
+## Output
+hi sanjay
