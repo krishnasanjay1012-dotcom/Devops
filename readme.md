@@ -9,3 +9,6 @@ docker run myapp
 
 ## Output
 hi sanjay
+
+## Output Screenshot
+![alt text](image.png)
